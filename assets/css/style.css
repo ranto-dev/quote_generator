@@ -1,0 +1,12 @@
+:root {
+  --bs-blue: #1d2b81;
+}
+
+::-webkit-scrollbar {
+  width: none;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
