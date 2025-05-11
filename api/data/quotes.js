@@ -2,99 +2,99 @@ const quotes = [
   {
     citation:
       "Success doesn't come from what you do occasionally, it comes from what you do consistently.",
-    auteur: "Marie Forleo",
+    author: "Marie Forleo",
   },
   {
     citation: "Push yourself, because no one else is going to do it for you.",
-    auteur: "Unknown",
+    author: "Anonymous",
   },
   {
     citation:
       "You are stronger than you think, and you’re capable of more than you know.",
-    auteur: "Unknown",
+    author: "Anonymous",
   },
   {
     citation:
       "Every day may not be good, but there is something good in every day.",
-    auteur: "Alice Morse Earle",
+    author: "Alice Morse Earle",
   },
   {
     citation:
       "Happiness is not something ready made. It comes from your own actions.",
-    auteur: "Dalai Lama",
+    author: "Dalai Lama",
   },
   {
     citation:
       "The happiest people don't have the best of everything, they just make the best of everything.",
-    auteur: "Unknown",
+    author: "Anonymous",
   },
   {
     citation: "Believe you can and you're halfway there.",
-    auteur: "Theodore Roosevelt",
+    author: "Theodore Roosevelt",
   },
   {
     citation: "The only way to do great work is to love what you do.",
-    auteur: "Steve Jobs",
+    author: "Steve Jobs",
   },
   {
     citation:
       "Difficulties in life are intended to make us better, not bitter.",
-    auteur: "Dan Reeves",
+    author: "Dan Reeves",
   },
   {
     citation: "Happiness depends upon ourselves.",
-    auteur: "Aristotle",
+    author: "Aristotle",
   },
   {
     citation: "You don’t have to be perfect to be amazing.",
-    auteur: "Unknown",
+    author: "Anonymous",
   },
   {
     citation: "Start where you are. Use what you have. Do what you can.",
-    auteur: "Arthur Ashe",
+    author: "Arthur Ashe",
   },
   {
     citation: "The best way to predict the future is to create it.",
-    auteur: "Peter Drucker",
+    author: "Peter Drucker",
   },
   {
     citation: "Joy is not in things; it is in us.",
-    auteur: "Richard Wagner",
+    author: "Richard Wagner",
   },
   {
     citation:
       "Your time is limited, so don’t waste it living someone else’s life.",
-    auteur: "Steve Jobs",
+    author: "Steve Jobs",
   },
   {
     citation:
       "Success is not final, failure is not fatal: It is the courage to continue that counts.",
-    auteur: "Winston Churchill",
+    author: "Winston Churchill",
   },
   {
     citation:
       "Keep your face always toward the sunshine—and shadows will fall behind you.",
-    auteur: "Walt Whitman",
+    author: "Walt Whitman",
   },
   {
     citation: "Act as if what you do makes a difference. It does.",
-    auteur: "William James",
+    author: "William James",
   },
   {
     citation: "Happiness is not by chance, but by choice.",
-    auteur: "Jim Rohn",
+    author: "Jim Rohn",
   },
   {
     citation: "You miss 100% of the shots you don’t take.",
-    auteur: "Wayne Gretzky",
+    author: "Wayne Gretzky",
   },
   {
     citation: "Every accomplishment starts with the decision to try.",
-    auteur: "John F. Kennedy",
+    author: "John F. Kennedy",
   },
   {
     citation: "Positive anything is better than negative nothing.",
-    auteur: "Elbert Hubbard",
+    author: "Elbert Hubbard",
   },
 ];
 
