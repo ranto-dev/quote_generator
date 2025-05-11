@@ -15,6 +15,10 @@ body {
   display: flex;
   flex-direction: column;
   gap: .5rem;
+  overflow: scroll;
+  scrollbar-width: none;
+  height: 70vh;
+  padding: .5rem;
 }
 
 .quote {
@@ -29,4 +33,11 @@ body {
   color: rgba(0, 0, 0, 0.5);
   display: flex;
   justify-content: end;
+}
+
+.form {
+  display: flex;
+  align-items: center;
+  gap: .5rem;
+  background-color: #dbd9d9;
 }

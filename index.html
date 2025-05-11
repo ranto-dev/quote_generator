@@ -11,18 +11,19 @@
 </head>
 
 <body>
-    <div class="container p-2">
-        <div class="formulaire_recherche border rounded p-4">
-            <label for="theme">Saisir le thème du citations que vous voulez</label>
-            <input type="text" name="theme" id="theme" class="form-control">
-            <button class="btn btn-primary mt-3"><i class="fa fa-search me-1"></i>Obtenir</button>
+    <div class="container p-3">
+        <div>
+            <h1 class="text-center display-4">Quote generator</h1>
         </div>
-        <div class="container-quote mt-3">
-            <p>Résultat: </p>
-            <div class="quotes">
-                
+        <form id="form" class="form border rounded mt-3 p-2">
+            <div class="w-100 pt-3">
+                <input type="text" name="key_word" id="key_word" class="form-control" placeholder="Enter key word ..">
             </div>
-        </div>
+            <div>
+                <button type="submit" class="btn btn-primary mt-3"><i class="fa fa-search me-1"></i></button>
+            </div>
+        </form>
+        <div class="quotes"></div>
     </div>
     <script src="assets/javascript/script.js"></script>
 </body>
