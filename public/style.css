@@ -1,0 +1,6 @@
+/* Pour la transition de la barre de recherche */
+.sticky,
+.search-bar {
+  transition: transform 0.3s ease;
+  will-change: transform;
+}
