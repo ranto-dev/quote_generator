@@ -1,402 +1,82 @@
 [
   {
-    "text": "La vie est la plus belle des vertus.",
-    "author": "Bill Gates"
-  },
-  {
-    "text": "L'amour est le cri de l'esprit.",
-    "author": "Albert Einstein"
-  },
-  {
-    "text": "La science est la plus grande richesse.",
-    "author": "Platon"
-  },
-  {
-    "text": "Le courage, c'est le début de la liberté.",
-    "author": "Nietzsche"
-  },
-  {
-    "text": "La vérité est mieux que mille mots.",
-    "author": "Gandhi"
-  },
-  {
-    "text": "La connaissance est un trésor sans prix.",
-    "author": "Khalil Gibran"
-  },
-  {
-    "text": "Le courage, c'est la plus grande richesse.",
-    "author": "Platon"
-  },
-  {
-    "text": "Il est préférable de le sel de la vie.",
-    "author": "Confucius"
-  },
-  {
-    "text": "La sagesse commence par un chemin vers la sagesse.",
-    "author": "Ralph Waldo Emerson"
-  },
-  {
-    "text": "Rien n'est plus la plus belle des vertus.",
-    "author": "Albert Einstein"
-  },
-  {
-    "text": "Rien n'est plus un choix, pas un hasard.",
-    "author": "Victor Hugo"
-  },
-  {
-    "text": "L'amour est le fondement de toute société.",
-    "author": "Simone de Beauvoir"
-  },
-  {
-    "text": "La vie est un acte de foi.",
-    "author": "Winston Churchill"
-  },
-  {
-    "text": "La sagesse commence par le début de la liberté.",
-    "author": "Simone de Beauvoir"
-  },
-  {
-    "text": "Le savoir est le sel de la vie.",
-    "author": "Winston Churchill"
-  },
-  {
-    "text": "La connaissance est un trésor sans prix.",
-    "author": "Lao Tseu"
-  },
-  {
-    "text": "L'ignorance est un outil de paix.",
-    "author": "Nietzsche"
-  },
-  {
-    "text": "L'amour est un choix, pas un hasard.",
-    "author": "Nietzsche"
-  },
-  {
-    "text": "La vérité est une lumière dans l'obscurité.",
-    "author": "Platon"
-  },
-  {
-    "text": "La vérité est un outil de paix.",
-    "author": "Oscar Wilde"
-  },
-  {
-    "text": "La justice est le cri de l'esprit.",
-    "author": "Platon"
-  },
-  {
-    "text": "Celui qui un outil de paix.",
-    "author": "Oscar Wilde"
-  },
-  {
-    "text": "On ne peut pas la force du futur.",
-    "author": "Nelson Mandela"
-  },
-  {
-    "text": "La sagesse commence par un trésor sans prix.",
-    "author": "Winston Churchill"
-  },
-  {
-    "text": "La connaissance est un trésor sans prix.",
-    "author": "Oscar Wilde"
-  },
-  {
-    "text": "La vie est ce qui fait l'humanité.",
+    "text": "L'innovation, c'est ce qui distingue un leader d'un suiveur.",
     "author": "Steve Jobs"
   },
   {
-    "text": "La patience est la plus grande richesse.",
-    "author": "Goethe"
+    "text": "La meilleure façon de prédire l'avenir est de le créer.",
+    "author": "Peter Drucker"
   },
   {
-    "text": "La patience est un trésor sans prix.",
+    "text": "Le plus grand risque est de n'en prendre aucun.",
+    "author": "Mark Zuckerberg"
+  },
+  {
+    "text": "Échouer, c’est avoir l'opportunité de recommencer de manière plus intelligente.",
+    "author": "Henry Ford"
+  },
+  {
+    "text": "Tout est possible à qui rêve, ose, travaille et n'abandonne jamais.",
+    "author": "Xavier Dolan"
+  },
+  {
+    "text": "La logique vous mènera d'un point A à un point B. L'imagination vous mènera partout.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "Si vous voulez vivre une vie heureuse, attachez-la à un but, non pas à des personnes ou des choses.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "L'obstination est le chemin de la réussite.",
+    "author": "Charlie Chaplin"
+  },
+  {
+    "text": "Les détails font la perfection, et la perfection n'est pas un détail.",
+    "author": "Léonard de Vinci"
+  },
+  {
+    "text": "Soyez le changement que vous voulez voir dans le monde.",
+    "author": "Mahatma Gandhi"
+  },
+  {
+    "text": "La simplicité est la sophistication suprême.",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "Le succès, c'est d'aller d'échec en échec sans perdre son enthousiasme.",
+    "author": "Winston Churchill"
+  },
+  {
+    "text": "Ce n'est pas parce que les choses sont difficiles que nous n'osons pas, c'est parce que nous n'osons pas qu'elles sont difficiles.",
+    "author": "Sénèque"
+  },
+  {
+    "text": "Le futur appartient à ceux qui croient à la beauté de leurs rêves.",
     "author": "Eleanor Roosevelt"
   },
   {
-    "text": "La sagesse commence par la porte vers l'avenir.",
-    "author": "Aristote"
+    "text": "L'art de la réussite consiste à savoir s'entourer des meilleurs.",
+    "author": "John F. Kennedy"
   },
   {
-    "text": "Rien n'est plus un acte de foi.",
-    "author": "Nietzsche"
-  },
-  {
-    "text": "On ne peut pas le cri de l'esprit.",
-    "author": "Mark Twain"
-  },
-  {
-    "text": "On ne peut pas ce qui nous rend libres.",
-    "author": "Gandhi"
-  },
-  {
-    "text": "La connaissance est un choix, pas un hasard.",
-    "author": "Oscar Wilde"
-  },
-  {
-    "text": "Le savoir est ce qui fait l'humanité.",
-    "author": "Bill Gates"
-  },
-  {
-    "text": "La connaissance est le miroir de l'âme.",
-    "author": "Voltaire"
-  },
-  {
-    "text": "Celui qui la clé du progrès.",
-    "author": "Winston Churchill"
-  },
-  {
-    "text": "On ne peut pas un choix, pas un hasard.",
-    "author": "Jules Renard"
-  },
-  {
-    "text": "Il est préférable de le début de la liberté.",
-    "author": "Lao Tseu"
-  },
-  {
-    "text": "Le savoir est la clé du progrès.",
-    "author": "Winston Churchill"
-  },
-  {
-    "text": "La justice est un chemin vers la sagesse.",
-    "author": "Victor Hugo"
-  },
-  {
-    "text": "Celui qui un acte de foi.",
-    "author": "Confucius"
-  },
-  {
-    "text": "La science est un chemin vers la sagesse.",
-    "author": "Aristote"
-  },
-  {
-    "text": "La patience est la plus grande richesse.",
-    "author": "Winston Churchill"
-  },
-  {
-    "text": "La patience est la force du futur.",
-    "author": "Aristote"
-  },
-  {
-    "text": "On ne peut pas un chemin vers la sagesse.",
+    "text": "Votre temps est limité, ne le gâchez pas en menant une existence qui n'est pas la vôtre.",
     "author": "Steve Jobs"
   },
   {
-    "text": "L'ignorance est un trésor sans prix.",
-    "author": "Victor Hugo"
-  },
-  {
-    "text": "La liberté est un outil de paix.",
-    "author": "Ralph Waldo Emerson"
-  },
-  {
-    "text": "Rien n'est plus mieux que mille mots.",
-    "author": "Victor Hugo"
-  },
-  {
-    "text": "Rien n'est plus le début de la liberté.",
-    "author": "Jules Renard"
-  },
-  {
-    "text": "Le bonheur réside dans le fondement de toute société.",
-    "author": "Aristote"
-  },
-  {
-    "text": "L'amour est mieux que mille mots.",
-    "author": "Aristote"
-  },
-  {
-    "text": "Il est préférable de un moteur de transformation.",
-    "author": "Goethe"
-  },
-  {
-    "text": "L'ignorance est le sel de la vie.",
-    "author": "Bouddha"
-  },
-  {
-    "text": "La vie est mieux que mille mots.",
-    "author": "Jean-Paul Sartre"
-  },
-  {
-    "text": "La liberté est une lumière dans l'obscurité.",
+    "text": "Pour gagner gros, il faut parfois prendre de gros risques.",
     "author": "Bill Gates"
   },
   {
-    "text": "On ne peut pas le cri de l'esprit.",
-    "author": "Jean-Paul Sartre"
+    "text": "L'innovation vient de la rencontre entre le besoin et l'imagination.",
+    "author": "Inconnu"
   },
   {
-    "text": "La connaissance est un moteur de transformation.",
-    "author": "Winston Churchill"
+    "text": "Le seul endroit où le succès vient avant le travail, c'est dans le dictionnaire.",
+    "author": "Vidal Sassoon"
   },
   {
-    "text": "L'ignorance est le fondement de toute société.",
-    "author": "Socrate"
-  },
-  {
-    "text": "On ne peut pas le fondement de toute société.",
-    "author": "Socrate"
-  },
-  {
-    "text": "Il faut toujours un chemin vers la sagesse.",
-    "author": "Socrate"
-  },
-  {
-    "text": "La patience est une lumière dans l'obscurité.",
-    "author": "Bouddha"
-  },
-  {
-    "text": "L'ignorance est une lumière dans l'obscurité.",
-    "author": "Simone de Beauvoir"
-  },
-  {
-    "text": "La vie est un acte de foi.",
-    "author": "Socrate"
-  },
-  {
-    "text": "La patience est un moteur de transformation.",
-    "author": "Oscar Wilde"
-  },
-  {
-    "text": "L'amour est un moteur de transformation.",
-    "author": "Goethe"
-  },
-  {
-    "text": "Le savoir est le début de la liberté.",
-    "author": "Mark Twain"
-  },
-  {
-    "text": "Il est préférable de un outil de paix.",
-    "author": "Gandhi"
-  },
-  {
-    "text": "Il vaut mieux un moteur de transformation.",
-    "author": "Oscar Wilde"
-  },
-  {
-    "text": "Celui qui un moteur de transformation.",
-    "author": "Bouddha"
-  },
-  {
-    "text": "Rien n'est plus ce qui nous rend libres.",
-    "author": "Victor Hugo"
-  },
-  {
-    "text": "La vie est un chemin vers la sagesse.",
-    "author": "Jules Renard"
-  },
-  {
-    "text": "La justice est le miroir de l'âme.",
-    "author": "Socrate"
-  },
-  {
-    "text": "La patience est un trésor sans prix.",
-    "author": "Simone de Beauvoir"
-  },
-  {
-    "text": "La justice est mieux que mille mots.",
-    "author": "Voltaire"
-  },
-  {
-    "text": "N'oublie jamais que le miroir de l'âme.",
-    "author": "Bouddha"
-  },
-  {
-    "text": "La sagesse commence par un chemin vers la sagesse.",
-    "author": "Socrate"
-  },
-  {
-    "text": "L'ignorance est le sel de la vie.",
-    "author": "Jules Renard"
-  },
-  {
-    "text": "La justice est un trésor sans prix.",
-    "author": "Aristote"
-  },
-  {
-    "text": "La sagesse commence par un choix, pas un hasard.",
-    "author": "Rumi"
-  },
-  {
-    "text": "La patience est un acte de foi.",
-    "author": "Jean-Paul Sartre"
-  },
-  {
-    "text": "N'oublie jamais que la plus belle des vertus.",
-    "author": "Voltaire"
-  },
-  {
-    "text": "La science est le cri de l'esprit.",
-    "author": "Jean-Paul Sartre"
-  },
-  {
-    "text": "L'ignorance est la porte vers l'avenir.",
-    "author": "Albert Einstein"
-  },
-  {
-    "text": "Rien n'est plus le miroir de l'âme.",
-    "author": "Nelson Mandela"
-  },
-  {
-    "text": "La vie est la plus belle des vertus.",
-    "author": "Ralph Waldo Emerson"
-  },
-  {
-    "text": "Il est préférable de le cri de l'esprit.",
-    "author": "Gandhi"
-  },
-  {
-    "text": "La vérité est le sel de la vie.",
-    "author": "Nietzsche"
-  },
-  {
-    "text": "La justice est un moteur de transformation.",
-    "author": "Nelson Mandela"
-  },
-  {
-    "text": "La vie est la porte vers l'avenir.",
-    "author": "Steve Jobs"
-  },
-  {
-    "text": "La patience est ce qui nous rend libres.",
-    "author": "Jules Renard"
-  },
-  {
-    "text": "La patience est ce qui fait l'humanité.",
-    "author": "Nietzsche"
-  },
-  {
-    "text": "L'amour est un moteur de transformation.",
-    "author": "Socrate"
-  },
-  {
-    "text": "La liberté est le miroir de l'âme.",
-    "author": "Aristote"
-  },
-  {
-    "text": "Le courage, c'est le début de la liberté.",
-    "author": "Winston Churchill"
-  },
-  {
-    "text": "La justice est ce qui nous rend libres.",
-    "author": "Jean-Paul Sartre"
-  },
-  {
-    "text": "La sagesse commence par le miroir de l'âme.",
-    "author": "Mark Twain"
-  },
-  {
-    "text": "La connaissance est le cri de l'esprit.",
-    "author": "Platon"
-  },
-  {
-    "text": "On ne peut pas la plus belle des vertus.",
-    "author": "Eleanor Roosevelt"
-  },
-  {
-    "text": "On ne peut pas le miroir de l'âme.",
-    "author": "Platon"
-  },
-  {
-    "text": "La vérité est mieux que mille mots.",
-    "author": "Jules Renard"
+    "text": "Il n'y a qu'une façon d'échouer, c'est d'abandonner avant d'avoir réussi.",
+    "author": "Georges Clemenceau"
   }
 ]
