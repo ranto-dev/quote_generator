@@ -2,10 +2,10 @@ import React, { useState, useEffect } from "react";
 import { Quote, RefreshCw, Share2, Copy, Check } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
 
-interface Citation {
+type Citation = {
   text: string;
   author: string;
-}
+};
 
 const App: React.FC = () => {
   const [citations, setCitations] = useState<Citation[]>([]);
